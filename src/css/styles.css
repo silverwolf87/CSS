@@ -3,3 +3,25 @@ h1{
    text-transform: capitalize;
    font-size: 80 px; 
 }
+
+#titulo-1{
+    color: blue;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+
+#parrafo-1 {
+    color: forestgreen;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+.titulo {
+    color: rgb(151, 30, 127);
+
+}
+
+.parrafo {
+    color: darkolivegreen;
+}

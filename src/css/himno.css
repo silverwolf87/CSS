@@ -1,0 +1,20 @@
+body {
+    background-color: cadetblue;
+}
+
+
+
+.amarillo {
+    color: rgb(223, 217, 39);
+    text-align: center;
+}
+
+.azul {
+    color: rgb(30, 30, 172);
+    text-align: center;
+}
+
+.rojo {
+    color: darkred;
+    text-align: center;
+}

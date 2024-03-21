@@ -6,7 +6,7 @@
 }
 
 .espacio {
-    padding: 4px;
+    padding: 10px;
 }
 
 #borde1 {
@@ -17,6 +17,13 @@
 }
 
 #borde2 {
+    background: rgb(156, 145, 84);
+    border-style: dashed;
+    border-width: 10px 15px;
+    border-color: aquamarine;
+}
+
+#borde3 {
     background: rgb(156, 145, 84);
     border-style: dashed;
     border-width: 10px 15px;

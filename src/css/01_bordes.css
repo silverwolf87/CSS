@@ -5,6 +5,23 @@
     border-radius: 15px;
 }
 
+.espacio {
+    padding: 4px;
+}
+
+#borde1 {
+    background: gold;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: aquamarine;
+}
+
+#borde2 {
+    background: rgb(156, 145, 84);
+    border-style: dashed;
+    border-width: 10px 15px;
+    border-color: aquamarine;
+}
 
 p.dotted {
     border-style: dotted;
